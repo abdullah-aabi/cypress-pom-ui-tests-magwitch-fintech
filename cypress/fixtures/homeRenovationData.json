@@ -1,0 +1,578 @@
+{
+    "rentHomeRenovationEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Employed",
+                "option": "Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentHomeRenovationMilitary": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Military",
+                "option": "Military"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentHomeRenovationNotEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Not Employed",
+                "option": "Not Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentHomeRenovationRetired": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Retired",
+                "option": "Retired"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentHomeRenovationSelfEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Self Employed",
+                "option": "Self Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentHomeRenovationOther": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Other",
+                "option": "Other"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Employed",
+                "option": "Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationMilitary": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Military",
+                "option": "Military"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationNotEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Not Employed",
+                "option": "Not Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationRetired": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Retired",
+                "option": "Retired"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationSelfEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Self Employed",
+                "option": "Self Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownHomeRenovationOther": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Home Renovation",
+                "option": "Home Renovation"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Other",
+                "option": "Other"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    }
+}

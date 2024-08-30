@@ -1,0 +1,578 @@
+{
+    "rentElectricalEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Employed",
+                "option": "Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentElectricalMilitary": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Military",
+                "option": "Military"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentElectricalNotEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Not Employed",
+                "option": "Not Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentElectricalRetired": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Retired",
+                "option": "Retired"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentElectricalSelfEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Self Employed",
+                "option": "Self Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "rentElectricalOther": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Rent"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Other",
+                "option": "Other"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Employed",
+                "option": "Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalMilitary": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Military",
+                "option": "Military"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalNotEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Not Employed",
+                "option": "Not Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalRetired": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Retired",
+                "option": "Retired"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalSelfEmployed": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Self Employed",
+                "option": "Self Employed"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    },
+    "ownElectricalOther": {
+        "customerInfo": {
+            "personalInfo": {
+                "firstName": "John",
+                "lastName": "Bot",
+                "dateOfBirth": "09/09/1999",
+                "addressInputDropdown": {
+                    "dropdown": "1516 Solano Avenue, Albany, California, USA",
+                    "option": "1516 Solano Avenue, Albany, California, USA"
+                },
+                "zipCode": "94707",
+                "rentOrOwnCheckButton": "Own"
+            },
+            "drivingLiscenceInfo": {
+                "documentNumber": "L1234567",
+                "documentIssuenceDate": "09/09/2020",
+                "documentExpirationDate": "09/09/2025",
+                "documentIssuenceStateInputDropdown": {
+                    "dropdown": "California",
+                    "option": "California"
+                }
+            }
+        },
+        "productInfo": {
+            "financingTypeInputDropdown": {
+                "dropdown": "Electrical",
+                "option": "Electrical"
+            },
+            "financingAmount": "1500",
+            "financingAmountConfirm": "1500"
+        },
+        "incomeVerification": {
+            "annualIncome": 200000,
+            "employmentStatusDropdown": {
+                "dropdown": "Other",
+                "option": "Other"
+            },
+            "companyName": "Bot, LLC."
+        },
+        "authorization": {
+            "phone": "2016601294",
+            "email": "AspenPQFApp-1-600@test.com",
+            "ssn": "132523432",
+            "smsCodeVerificationInput": "41245",
+            "emailCodeVerificationInput": "37234"
+        },
+        "offerSelection": {}
+    }
+}
